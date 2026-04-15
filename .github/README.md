@@ -355,7 +355,7 @@ DOCS      = "music.xbitcode.com/dashboard/docs"
 
 <br/>
 
-[![Deploy On Heroku](https://img.shields.io/badge/━━━━━━%20🚀%20DEPLOY%20ON%20HEROKU%20━━━━━━-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/xbitcode/music)
+[![Deploy On Heroku](https://img.shields.io/badge/━━━━━━%20🚀%20DEPLOY%20ON%20HEROKU%20━━━━━━-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/llTEAM-VAMPIREll/XBIT_VAMPU)
 
 <br/>
 
@@ -378,7 +378,7 @@ DOCS      = "music.xbitcode.com/dashboard/docs"
 
 ```bash
 # 📥 Clone the repository
-git clone https://github.com/xbitcode/music && cd music
+git clone https://github.com/llTEAM-VAMPIREll/XBIT_VAMPU && cd XBIT_VAMPU
 
 # 🔄 Update system packages
 sudo apt-get update && sudo apt-get upgrade -y
